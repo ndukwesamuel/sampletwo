@@ -1,0 +1,40 @@
+
+.nav-bar{
+    /* background-color: aqua; */
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 0px;
+    height: 85px;
+}
+
+.nav2{
+    /* display: flex;
+    justify-content: space-evenly; */
+    margin-left: 55%;
+    margin-top: 30px;
+}
+
+.nav1{
+    padding-left: 10px;
+}
+
+
+
+
+
+
+@media (max-width: 768px){
+    body{
+        background-color: yellow;
+    }
+
+}
+
+
+@media (max-width: 425px){
+    
+    body{
+        background-color: greenyellow;
+    }
+
+}

@@ -1,0 +1,35 @@
+.nav-bar{
+    /* background-color: aqua; */
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 0px;
+    height: 85px;
+}
+
+.nav2{
+    /* display: flex;
+    justify-content: space-evenly; */
+    margin-left: 55%;
+    margin-top: 30px;
+}
+
+.nav1{
+    padding-left: 10px;
+}
+
+#logo{
+    width: 50px;
+    height: 40px;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.hero-sectn{
+    background: linear-gradient(0deg, rgba(25, 0, 117, 0.86), rgba(0, 0, 0, 0.86)), url(./images/img.jpeg);
+    /* background-image: url(./images/img.jpeg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin: 0;
+    height: 600px;
+}
